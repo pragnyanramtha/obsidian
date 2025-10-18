@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "21b3d40125f03517",
+    "type": "split",
+    "children": [
+      {
+        "id": "89246e3512bad10f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d845984e149455d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - debugging/autopilot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "autopilot"
+            }
+          },
+          {
+            "id": "9977cf72ca9d67d3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd6c63cbacd97723",
+    "type": "split",
+    "children": [
+      {
+        "id": "27f82dd39986458e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "244bb71de8fefe4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9dc00fdc3d8d7595",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53ee3879389ba244",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "93ef74b335b35c5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc37b5e56cd11e68",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dae1808f19eb99dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "10dc65b9f3b35a93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baa8ac655b2c90f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "efdd32e3a66e3932",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f06dff3d1bf4fde0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3933521b27cbf430",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6ad0e11bd4747211",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "ee684554ca22d86a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9977cf72ca9d67d3",
+  "lastOpenFiles": [
+    "tags/agenticai.md",
+    "5 - debugging/autopilot.md",
+    "projects",
+    "2 - learning/pragnyanramtha - llm clone.md",
+    "5 - debugging/Untitled",
+    "tags/AI.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "tags/learning.md",
+    "6 - improvising/quiz helper.md",
+    "7 - goals",
+    "6 - improvising",
+    "5 - debugging",
+    "4 - implementing",
+    "3 - designing",
+    "2 - learning",
+    "1 - rough ideas",
+    "tags",
+    "2 - tasks/Learn K means , random forests.md",
+    "Untitled.canvas",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
