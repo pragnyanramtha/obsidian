@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - debugging/autopilot.md",
+                "file": "7 - goals/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "autopilot"
-            }
-          },
-          {
-            "id": "9977cf72ca9d67d3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +203,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9977cf72ca9d67d3",
+  "active": "d845984e149455d1",
   "lastOpenFiles": [
-    "tags/agenticai.md",
     "5 - debugging/autopilot.md",
+    "7 - goals/Untitled.md",
+    "4 - implementing/Untitled.md",
+    "3 - designing/Untitled.md",
+    "1 - rough ideas/Untitled.md",
+    "tags/agenticai.md",
     "projects",
     "2 - learning/pragnyanramtha - llm clone.md",
     "5 - debugging/Untitled",
