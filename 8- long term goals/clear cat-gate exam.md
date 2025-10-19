@@ -1,1 +1,1 @@
-requirements : [[C]] [[Math]] [[Python]] [[data science]] 
+requirements : [[Math]] [[Python]] [[data science]] 
