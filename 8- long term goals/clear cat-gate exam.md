@@ -1,1 +1,1 @@
-requiem
+requirements : [[C]] [[Math]] [[Python]] [[data science]] 
