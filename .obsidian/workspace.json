@@ -37,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "8- long term goals/clear cat-gate exam.md",
+                    "file": "job roles/Quantum AI researcher.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "clear cat-gate exam"
+                  "title": "Quantum AI researcher"
                 }
               }
             ]
@@ -216,8 +216,10 @@
   },
   "active": "200159a451931636",
   "lastOpenFiles": [
-    "7 - goals/Untitled.md",
+    "9 - deadlines/mid exams - ariving.md",
     "8- long term goals/clear cat-gate exam.md",
+    "9 - deadlines",
+    "7 - goals/Untitled.md",
     "4 - Knowledge base/full stack.md",
     "4 - Knowledge base/Python.md",
     "tags/data science.md",
@@ -250,8 +252,6 @@
     "tags/AI.md",
     "Untitled 1.md",
     "tags/learning.md",
-    "7 - goals",
-    "2 - tasks/Learn K means , random forests.md",
     "Untitled.canvas"
   ]
 }
