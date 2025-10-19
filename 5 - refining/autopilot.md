@@ -1,3 +1,3 @@
 tags: [[AI]] [[agenticai]]
 
-# 
+requirments : 
