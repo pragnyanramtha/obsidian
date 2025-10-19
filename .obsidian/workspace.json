@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "mid exams - arriving"
             }
-          },
-          {
-            "id": "3462edc9897b175d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +188,19 @@
               "icon": "lucide-file",
               "title": "quantum"
             }
+          },
+          {
+            "id": "3462edc9897b175d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,13 +218,15 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "3462edc9897b175d",
+  "active": "9e25a9db4d7e9ea2",
   "lastOpenFiles": [
+    "tags/deadline.md",
+    "projects/pragnyanramtha clone.md",
+    "tags/quantum.md",
     "9 - deadlines/mid exams - arriving.md",
     "Untitled.md",
     "7 - goals/learn C , C++ and rust.md",
     "8- long term goals/Publish an Research paper.md",
-    "tags/quantum.md",
     "2025-10-19.md",
     "0 - need to learn/database.md",
     "job roles/Quantum AI researcher.md",
@@ -234,7 +236,6 @@
     "4 - Knowledge base/Python.md",
     "tags/data science.md",
     "0 - need to learn/k means and random forests.md",
-    "projects/pragnyanramtha clone.md",
     "3 -  Researching/large language models.md",
     "0 - need to learn/auth.md",
     "5 - refining/autopilot.md",
@@ -252,7 +253,6 @@
     "tags/future projects.md",
     "tags/web development.md",
     "Untitled.base",
-    "1 - rough ideas/Untitled.md",
     "1 - future projects",
     "projects",
     "5 - debugging/Untitled",
