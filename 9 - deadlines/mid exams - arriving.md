@@ -1,4 +1,4 @@
-tags: [[deadline]]
+tags: [[deadline]] [[2025-10-23]]
 
 
 
