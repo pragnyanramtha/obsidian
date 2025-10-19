@@ -11,13 +11,32 @@
             "id": "200159a451931636",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "tags/data science.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "data science"
+            }
+          },
+          {
+            "id": "9df26093ac2d2b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/pragnyanramtha clone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pragnyanramtha clone"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,31 +218,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "200159a451931636",
+  "active": "9df26093ac2d2b13",
   "lastOpenFiles": [
-    "2 - learning/pragnyanramtha - llm clone.md",
-    "projects/Untitled.md",
+    "job roles/AI research Scientist.md",
+    "job roles",
+    "projects/pragnyanramtha clone.md",
+    "2 - learning/LLM finetuning.md",
+    "1 - future projects/social platform.md",
+    "tags/data science.md",
+    "8- long term goals",
+    "tags/future projects.md",
+    "1 - future projects/Earthquake prediction.md",
+    "tags/web development.md",
+    "Untitled.base",
+    "1 - rough ideas/Untitled.md",
+    "1 - future projects",
     "7 - goals/Untitled.md",
     "5 - debugging/autopilot.md",
     "4 - implementing/Untitled.md",
     "3 - designing/Untitled.md",
-    "1 - rough ideas/Untitled.md",
     "tags/agenticai.md",
     "projects",
     "5 - debugging/Untitled",
     "tags/AI.md",
     "Untitled 1.md",
-    "Untitled.md",
     "tags/learning.md",
     "6 - improvising/quiz helper.md",
     "7 - goals",
     "6 - improvising",
     "5 - debugging",
     "4 - implementing",
-    "3 - designing",
-    "2 - learning",
-    "1 - rough ideas",
-    "tags",
     "2 - tasks/Learn K means , random forests.md",
     "Untitled.canvas",
     "Welcome.md",
