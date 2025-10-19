@@ -1,1 +1,1 @@
-requirements: [[AI]] [[Math]][[ai]]
+requirements: [[AI]] [[Math]] [[large language models]] [[quantum]] 
