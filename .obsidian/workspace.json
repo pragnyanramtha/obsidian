@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8- long term goals/Publish an Research paper.md",
+                "file": "7 - goals/learn ML , LLMs and AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Publish an Research paper"
+              "title": "learn ML , LLMs and AI"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8- long term goals/Publish an Research paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Publish an Research paper"
+              "title": "Backlinks"
             }
           },
           {
@@ -141,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8- long term goals/Publish an Research paper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Publish an Research paper"
+              "title": "Outline"
             }
           },
           {
@@ -215,8 +213,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "0575e946d7ee2905",
+  "active": "c601b16ac401aa00",
   "lastOpenFiles": [
+    "7 - goals/learn ML , LLMs and AI.md",
+    "8- long term goals/clear cat-gate exam.md",
+    "8- long term goals/Publish an Research paper.md",
+    "tags/long term goal.md",
     "7 - goals/learn C , C++ and rust.md",
     "tags/goal.md",
     "9 - deadlines/gcp credits expiring.md",
@@ -225,16 +227,13 @@
     "dates",
     "dates/2025-10-23.md",
     "2025-10-19.md",
-    "7 - goals/learn ML , LLMs and AI.md",
     "projects/pragnyanramtha clone.md",
     "0 - need to learn/k means and random forests.md",
     "tags/quantum physics.md",
     "job roles/AI research Scientist.md",
     "Untitled.md",
-    "8- long term goals/clear cat-gate exam.md",
     "C.md",
     "tags/deadline.md",
-    "8- long term goals/Publish an Research paper.md",
     "0 - need to learn/database.md",
     "job roles/Quantum AI researcher.md",
     "9 - deadlines",
@@ -245,7 +244,6 @@
     "0 - need to learn/auth.md",
     "5 - refining/autopilot.md",
     "0 - need to learn",
-    "4 - Knowledge base/Math.md",
     "4 - implementing/Untitled",
     "3 - designing/Untitled",
     "job roles",
